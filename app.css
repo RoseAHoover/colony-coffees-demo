@@ -1,0 +1,34 @@
+body {
+    background-color: #edebd8;
+}
+
+h1 {
+    font-family: 'Alex Brush', cursive;
+    font-size: 8rem;
+    background-color: #cfcbb8;
+}
+
+.tagline {
+    background-color: #cfcbb8;
+    font-size: 1.25rem;
+    font-family: "Montserrat", sans-serif;
+    line-height: 50%;
+    padding-right: 30px;
+}
+
+.blurb h2 {
+    font-family: Belleza, sans-serif;
+    font-size: 2.5rem;
+}
+
+.blurb h3 {
+    font-family: Belleza, sans-serif;
+    font-size: 1.35rem;
+    line-height: 2;
+}
+
+.blurb p {
+    font-family: Belleza, sans-serif;
+    font-size: 1.25rem;
+    line-height: 2;
+}
