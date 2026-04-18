@@ -5,7 +5,10 @@ body {
 h1 {
     font-family: 'Alex Brush', cursive;
     font-size: 8rem;
+    margin-bottom: 0;
     background-color: #cfcbb8;
+    line-height: 0.85;
+    padding-top: 12px;
 }
 
 .tagline {
@@ -13,6 +16,8 @@ h1 {
     font-family: "Montserrat", sans-serif;
     font-size: 1.5rem;
     font-weight: 200;
+    margin-bottom: 0;
+    line-height: 1.5;
 }
 
 .blurb h2 {
