@@ -10,10 +10,9 @@ h1 {
 
 .tagline {
     background-color: #cfcbb8;
-    font-size: 1.25rem;
     font-family: "Montserrat", sans-serif;
-    line-height: 50%;
-    padding-right: 30px;
+    font-size: 1.5rem;
+    font-weight: 200;
 }
 
 .blurb h2 {
